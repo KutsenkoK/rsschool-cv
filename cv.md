@@ -20,7 +20,16 @@ I want to learn an IT profession, I took a 7-day marathon from GOIT frontend, cr
 <li>CSS</li>
 </ul>
 </div>
-<div><h2>Sample code:</h2></div>
+<div><h2>Sample code:</h2>
+ .about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0 0 20px 0;
+ }
+</div>
 <div><h2>Work experience:</h2>
 7-day marathon GOIT frontend</div>
 <div><h2>Education:</h2> 
