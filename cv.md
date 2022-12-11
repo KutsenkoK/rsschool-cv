@@ -5,10 +5,10 @@
 <h1>Kateryna Kutsenko</h1>
 <div><h2>Contacts:</h2>
 <ul> 
-<li>Location: Ukraine</li>
-<li>Email:  kutsenkok2017@gmail.com</li>
-<li>Phone: 0979876543</li>
-<li>GitHub: KutsenkoK</li>
+<li><h3>Location:</h3> Ukraine</li>
+<li><h3>Email:</h3> kutsenkok2017@gmail.com</li>
+<li><h3>Phone:</h3> 0979876543</li>
+<li><h3>GitHub:</h3> KutsenkoK</li>
 </ul> 
 </div>
 <div><h2>About me:</h2> 
